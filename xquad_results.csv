@@ -1,0 +1,101 @@
+id,question_hi,question_en,true_answer,llama8b_hi_pred,llama8b_hi_correct,llama8b_en_pred,llama8b_en_correct,llama70b_hi_pred,llama70b_hi_correct,llama70b_en_pred,llama70b_en_correct
+0,पैंथर्स डिफ़ेंस ने कितने अंक दिए?,How many points did the Panthers defense surrender?,308,308 अंक,True,308 points.,True,308 अंक,True,308 points,True
+1,जेरेड एलन के पास कितने करियर सैक थे?,How many career sacks did Jared Allen have?,136,136,True,136,True,136,True,136,True
+2,ल्यूक कुएक्ली ने कितने टैकल रजिस्टर किए?,How many tackles did Luke Kuechly register?,118,118,True,118,True,118,True,118,True
+3,जोश नॉर्मन ने कितने बॉल को इंटरसेप्ट किया?,How many balls did Josh Norman intercept?,चार,चार,True,Four.,True,चार इंटर्सेप्शन,True,4,False
+4,इस सीज़न में टीम से किसने सबसे अधिक सैक रजिस्टर किए?,Who registered the most sacks on the team this season?,कावन शॉर्ट,कावन शॉर्ट,True,Kawann Short.,True,कावन शॉर्ट,True,Kawann Short,True
+5,2015 में पैंथर्स डिफ़ेंस ने कितने इंटर्सेप्शन पुरे किए?,How many interceptions are the Panthers defense credited with in 2015?,24,चार,False,24,True,24,True,24,True
+6,सैक में पैंथर्स का नेतृत्व किसने किया?,Who led the Panthers in sacks?,कावन शॉर्ट,कावन शॉर्ट,True,Kawann Short.,True,कावन शॉर्ट,True,Kawann Short,True
+7,प्रो बाउल के लिए कितने पैंथर्स डिफ़ेंस खिलाड़ियों का चयन किया गया था?,How many Panthers defense players were selected for the Pro Bowl?,चार,चार,True,Seven.,False,चार प्रो बाउल चयन,True,Four,True
+8,थॉमस डेविस ने कितने फ़ोर्स्ड फ़म्बल किए थे?,How many forced fumbles did Thomas Davis have?,चार,चार फ़ोर्स्ड फ़म्बल,True,Four.,True,चार,True,Four,True
+9,सीज़न में किस खिलाड़ी ने सबसे अधिक इंटर्सेप्शन किए?,Which player had the most interceptions for the season?,कर्ट कोलमैन,कर्ट कोलमैन,True,Kurt Coleman.,True,कर्ट कोलमैन,True,Kurt Coleman,True
+10,2015 के सीज़न में पैंथर्स डिफ़ेंस को कितने इंटर्सेप्शन मिले?,How many 2015 season interceptions did the Panthers' defense get?,24,चार,False,24,True,24,True,24,True
+11,कैरोलिना पैंथर्स स्टार्टर के रूप में नौ खेलों में पाँच सैक किसके पास थे?,Who had five sacks in nine games as a Carolina Panthers starter?,कोनी एलियल,कोनी एलियल,True,Kony Ealy.,True,कोनी एलियल,True,Kony Ealy,True
+12,2015 के लिए पैंथर्स टैकल का लीडर कौन था?,Who was the Panthers' tackle leader for 2015?,ल्यूक क्युचली।,कावन शॉर्ट,False,Luke Kuechly.,True,ल्यूक क्युचली,True,Luke Kuechly,True
+13,2015 में जोश नॉर्मन ने कितने इंटर्सेप्शन को टचडाउन में परिवर्तित किया?,How many interceptions did Josh Norman score touchdowns with in 2015?,दो की रिकवरी  की।,दो,True,Two.,True,दो,True,Two.,True
+14,डिवीजनल राउंड में ब्रोंकोस से कौन हारा?,Who lost to the Broncos in the divisional round?,पिट्सबर्ग स्टीलर्स,पिट्सबर्ग स्टीलर्स,True,The Pittsburgh Steelers.,True,पिट्सबर्ग स्टीलर्स,True,The Steelers.,False
+15,पिट्सबर्ग के विरुद्ध गेम के अंतिम तीन मिनट में ब्रोंकोस ने कितने अंक हासिल किए?,How many points did the Broncos score in the last three minutes of the game versus Pittsburgh?,11,11 अंक,True,11 points.,True,11 अंक,True,11 points,True
+16,सुपर बाउल XLIX किसने जीता?,Who won Super Bowl XLIX?,न्यू इंग्लैंड पैट्रिओट्स,न्यू इंग्लैंड पैट्रिओट्स,True,New England Patriots,True,न्यू इंग्लैंड पैट्रिओट्स,True,New England Patriots,True
+17,एएफसी चैम्पियनशिप गेम का अंतिम स्कोर क्या था?,What was the final score of the AFC Championship Game?,20–18,20–18,True,20-18,False,20–18,True,20–18,True
+18,"जब ब्रोंकोस ने एएफसी चैंपियनशिप गेम जीतने में सफलता प्राप्त की, तब घड़ी में कितना समय बचा था?",How much time remained on the clock when the Broncos made the interception that clinched the AFC Championship Game?,17 सेकंड,17 सेकंड,True,17 seconds.,True,17 सेकंड,True,17 seconds,True
+19,ब्रोंकोस और स्टीलर्स के बीच डिवीजनल राउंड की विजेता कौन सी टीम थी?,What team was the divisional round winner between the Broncos and Steelers?,ब्रोंकोस,ब्रोंकोस,True,Broncos,True,ब्रोंकोस,True,The Broncos.,True
+20,ब्रोंकोस और स्टीलर्स के बीच खेल का अंतिम स्कोर क्या था?,What was the final score of the game between the Broncos and Steelers?,23–16,23–16,True,23–16.,True,23–16,True,23-16,False
+21,सुपर बाउल XLIX किसने जीता?,Who won Super Bowl XLIX?,न्यू इंग्लैंड पैट्रिओट्स,न्यू इंग्लैंड पैट्रिओट्स,True,New England Patriots,True,न्यू इंग्लैंड पैट्रिओट्स,True,New England Patriots,True
+22,जब ब्रोंकोस ने इंटरसेप्ट को रोका जिससे वे गेम जीत गए उस समय खेल में कितने सेकंड बचे थे?,How many seconds were left in the game when the Broncos intercepted the pass that won the game?,17,17 सेकंड,True,17 seconds.,True,17 सेकंड,True,17 seconds.,True
+23,"ब्रोंको के प्लेऑफ़ खेलों के दौरान, किसने बिल्कुल थ्रो नहीं किया?","During the Bronco's playoff games, who did not throw at all?",मैनिंग,टॉम ब्रेडी नहीं,False,Manning didn't throw any interceptions.,True,मैनिंग ने इंटरसेप्शन नहीं किया।,True,Manning's interceptions.,True
+24,डिवीजनल गेम में ब्रोंकोस ने किसे हराया?,Who did the Broncos beat in the divisional game?,पिट्सबर्ग स्टीलर्स,पिट्सबर्ग स्टीलर्स,True,The Pittsburgh Steelers.,True,पिट्सबर्ग स्टीलर्स,True,The Steelers.,False
+25,पिट्सबर्ग खेल के अंतिम तीन मिनट में ब्रोंकोस ने कितने अंक हासिल किए?,How many points did the Broncos score in the final three minutes of the Pittsburgh game?,11,11 अंक,True,11 points.,True,11 अंक,True,11 points,True
+26,एएफसी चैम्पियनशिप खेल में ब्रोंकोस ने किसे हराया था?,Who did the Broncos defeat in the AFC Championship game?,न्यू इंग्लैंड पैट्रिओट्स,न्यू इंग्लैंड पैट्रिओट्स,True,New England Patriots.,True,न्यू इंग्लैंड पैट्रिओट्स,True,New England Patriots,True
+27,2015 में अपना डिवीज़न जीतने के लिए ब्रोंकोस ने किसे हराया?,Who did the Broncos beat to win their division in 2015?,पिट्सबर्ग स्टीलर्स,पिट्सबर्ग स्टीलर्स,True,The Pittsburgh Steelers.,True,पिट्सबर्ग स्टीलर्स,True,The context doesn't mention.,False
+28,एएफसी चैंपियन बनने के लिए ब्रोंकोस ने किसे हराया?,Who did the Broncos beat tp become the AFC champions?,न्यू इंग्लैंड पैट्रिओट्स,न्यू इंग्लैंड पैट्रिओट्स,True,New England Patriots.,True,न्यू इंग्लैंड पैट्रिओट्स,True,New England Patriots,True
+29,जब पैट्रियट्स अपने 2-अंको के रूपांतरण में विफल हुए उस समय खेल में कितने सेकंड बचे थे?,How many seconds were left in the game when the Patriots failed their 2-point conversion?,17,17 सेकंड,True,17 seconds.,True,17 सेकंड,True,17 seconds,True
+30,सुपर बाउल 50 में खेलते समय पेटन मैनिंग की उम्र कितनी थी?,How old was Peyton Manning when he played in Super Bowl 50?,39,39,True,38,False,39 वर्ष,True,39 years old.,True
+31,सुपर बाउल में खेलने वाले सबसे अधिक उम्र के क्वार्टरबैक होने का रिकॉर्ड पहले किसके पास था?,Who previously held the record for being the oldest quarterback to play in a Super Bowl?,जॉन एलवे,जॉन एलवे,True,John Elway.,True,जॉन एलवे,True,John Elway,True
+32,जॉन एलवे जब सुपर बाउल XXXIII में खेले तो वह कितने साल के थे?,How old was John Elway when he played in Super Bowl XXXIII?,38,38,True,38 years old.,True,38 साल,True,38 years old,True
+33,वर्तमान में ब्रॉनकोस फ्रैंचाइज़ी में जॉन एलवे की क्या भूमिका है?,What role does John Elway currently have in the Broncos franchise?,फुटबॉल संचालन के कार्यकारी उपाध्यक्ष और महाप्रबंधक,डेनवर के फुटबॉल संचालन के कार्यकारी उपाध्यक्ष और महाप्रबंधक।,True,Executive Vice President of Football Operations and General Manager.,True,कार्यकारी उपाध्यक्ष और महाप्रबंधक,True,Executive Vice President of Football Operations and General Manager.,True
+34,सुपर बाउल XXXIII में जॉन बाउल किसके लिए खेलते थे?,Who did John Elway play for in Super Bowl XXXIII?,ब्रोंकोस,ब्रोंकोस,True,The Denver Broncos.,True,ब्रोंकोस,True,The Broncos.,True
+35,सुपर बाउल XXXIII की विजेता कौन सी टीम थी?,What team was the winner of Super Bowl XXXIII?,ब्रोंकोस,डेनवर ब्रोंकोस,True,Denver Broncos.,True,ब्रोंकोस,True,Broncos.,True
+36,ब्रोंकोस के महाप्रबंधक कौन है?,Who is the General Manager for the Broncos?,जॉन एलवे,जॉन एलवे,True,Vacant,False,जॉन एलवे,True,John Elway,True
+37,सुपर बाउल XXXIII की जीत के दौरान एलवे कितने साल के थे?,How old was Elway during his Super Bowl XXXIII win?,38,38,True,38 years old.,True,38 साल,True,38 years old,True
+38,किसी भी सुपर बाउल खेल में सबसे अधिक उम्र का क्वार्टर होने का रिकॉर्ड किसके नाम है?,Who has the record of being the oldest quarter back in any Super Bowl game?,पैटन मैनिंग,पैटन मैनिंग,True,John Elway,False,पैटन मैनिंग,True,Peyton Manning,True
+39,मैनिंग टीम में रहते हुए सुपर बाउल तक पहुँचने वाली कितनी टीमों के लिए खेले थे?,"How many teams has Manning played for that reached the Super Bowl, while he was on their team?",दो,दो,True,Two teams.,True,दो अलग-अलग टीमों के लिए।,True,Two teams.,True
+40,पीटन मैनिंग ने सुपर बाउल में कितनी अलग-अलग टीमों को पहुँचाया?,Peyton Manning took how many different teams to the Super Bowl?,दो,दो,True,Two.,True,दो,True,Two,True
+41,सुपर बाउल में खेलने वाले सबसे अधिक उम्र के क्वार्टरबैक कौन थे?,Who is the oldest quarterback to play in a Super Bowl?,पैटन मैनिंग,पैटन मैनिंग,True,Peyton Manning.,True,पैटन मैनिंग,True,Peyton Manning,True
+42,"मैनिंग से पहले, सुपर बाउल में खेलने वाले सबसे अधिक उम्र के क्वार्टरबैक कौन थे?","Prior to Manning, who was the oldest quarterback to play in a Super Bowl?",जॉन एलवे,जॉन एलवे,True,John Elway.,True,जॉन एलवे,True,John Elway,True
+43,38 साल की उम्र में एलवे ने किस सुपर बाउल को जीता था?,Which Super Bowl did Elway win at 38 years old?,सुपर बाउल XXXIII,सुपर बाउल XXXIII,True,Super Bowl XXXIII.,True,सुपर बाउल XXXIII,True,Super Bowl XXXIII.,True
+44,दो टीमों को एक से अधिक सुपर बाउल में पहुँचाने वाले पहले क्वार्टरबैक कौन थे?,Who was the first quarterback to take two teams to more than one Super Bowl?,पैटन मैनिंग,पैटन मैनिंग,True,Peyton Manning.,True,पैटन मैनिंग,True,Peyton Manning,True
+45,सुपर बाउल 50 खेलते समय मैनिंग कितने साल के थे?,How old was Manning when he played Super Bowl 50?,39,38,False,38,False,39 साल,True,39 years old.,True
+46,सुपर बाउल XXXIII में 38 साल की उम्र वाले क्वार्टरबैक का नाम क्या है?,What is the name of the quarterback who was 38 in Super Bowl XXXIII?,जॉन एलवे,जॉन एलवे,True,John Elway.,True,जॉन एलवे,True,John Elway,True
+47,लेडी गागा ने कितने ग्रैमी जीते हैं?,How many Grammys has Lady Gaga won?,छह,छह बार,True,Six.,True,छह बार,True,Six Grammys,True
+48,लेडी गागा ने क्या गाया?,What did Lady Gaga sing?,राष्ट्रगान,राष्ट्रगान,True,The national anthem.,True,राष्ट्रगान,True,The national anthem.,True
+49,मार्ली मैटलिन ने कौन सा पुरस्कार जीता है?,What award has Marlee Matlin won?,अकादमी पुरस्कार,अकादमी पुरस्कार,True,Academy Award.,True,अकादमी पुरस्कार,True,Academy Award,True
+50,मार्ली मैटलिन ने किसका अनुवाद किया?,What did Marlee Matlin translate?,राष्ट्रगान,राष्ट्रगान,True,The national anthem.,True,अमेरिकी सांकेतिक भाषा (ASL),False,The national anthem.,True
+51,मार्ली मैटलिन ने किस भाषा में राष्ट्रगान का अनुवाद किया था?,Into what language did Marlee Matlin translate the national anthem?,अमेरिकी सांकेतिक भाषा,अमेरिकी सांकेतिक भाषा (ASL),True,American Sign Language (ASL),True,अमेरिकी सांकेतिक भाषा (ASL),True,American Sign Language.,True
+52,राष्ट्रगान किसने गाया?,Who sang the national anthem?,लेडी गागा,लेडी गागा,True,Lady Gaga.,True,लेडी गागा ने,True,Lady Gaga,True
+53,एएसएल गेम के लिए किस अभिनेत्री ने अनुवाद किया?,What actress did the ASL translation for the game?,मार्ली मैटलिन,मार्ली मैटलिन,True,Marlee Matlin.,True,मार्ली मैटलिन,True,Marlee Matlin,True
+54,सुपर बाउल 50 में राष्ट्रगान किसने प्रस्तुत किया था?,Who did the National Anthem at Super Bowl 50?,लेडी गागा,लेडी गागा,True,Lady Gaga.,True,लेडी गागा,True,Lady Gaga,True
+55,सुपर बाउल 50 में राष्ट्रगान के लिए किस अभिनेता ने सांकेतिक भाषा का काम किया?,What actor did sign language for the National Anthem at Superbowl 50?,मार्ली मैटलिन,मार्ली मैटलिन,True,I couldn't find any information about the specific actor who signed for the National Anthem at Superbowl 50.,False,मार्ली मैटलिन,True,Marlee Matlin.,True
+56,सुपर बाउल 50 राष्ट्रगान किसने गाया था?,Who did the Super Bowl 50 National Anthem?,लेडी गागा,लेडी गागा,True,Lady Gaga.,True,लेडी गागा,True,Lady Gaga.,True
+57,टेक्स्ट के अनुसार लेडी गागा ने कितने ग्रैमी पुरस्कार जीते हैं?,How many Grammy Award's does the text say Lady Gaga has won?,छह,छह बार,True,Six.,True,छह बार,True,Six,True
+58,सुपर बाउल 50 में राष्ट्रगान की सांकेतिक भाषा किसने प्रस्तुत की थी?,Who did the sign language of the National Anthem at Super Bowl 50?,मार्ली मैटलिन,मार्ली मैटलिन,True,Marlee Matlin.,True,मार्ली मैटलिन,True,Marlee Matlin.,True
+59,खेल पूरा होने में 4:51 समय पहले कैरोलिना ने किस यार्ड लाइन से शुरुआत की?,On what yard line did Carolina begin with 4:51 left in the game?,24,24 यार्ड लाइन,True,Their own 24-yard line.,True,24 यार्ड लाइन,True,Their own 24-yard line.,True
+60,3rd-and-9 पर किसने बॉल फ़म्बल की?,Who fumbled the ball on 3rd-and-9?,न्यूटन,मिलर,False,Cam Newton.,True,मिलर ने।,False,Newton,True
+61,थर्ड डाउन को रोकने के लिए पैंथर डिफ़ेंडर को क्या कहा गया?,What Panther defender was called for holding on third down?,जोश नॉर्मन,3rd और 9,False,Josh Norman.,True,न्यूटन,False,Josh Norman,True
+62,2 से किस खिलाड़ी ने गेंद को अंदर पहुँचाया?,What player punched the ball in from the 2?,एंडरसन,वार्ड,False,Anderson.,True,एंडरसन,True,Anderson,True
+63,2-अंक के रूपांतरण को सफलता पूर्वक प्राप्त करनेवाला कौन था?,Who was the receiver on the successful 2-point conversion?,बेनी फ़ाउलर,बेनी फाउलर,False,Bennie Fowler.,True,बेनी फ़ाउलर,True,Bennie Fowler,True
+64,3rd and nine पर न्यूटन से गेंद किसने छीनी?,Who stripped the ball from Newton on a 3rd and nine?,मिलर,मिलर,True,Miller.,True,मिलर ने,True,Miller,True
+65,छीनी गई बॉल किसने बरामद की?,Who recovered the strip ball?,वार्ड,वार्ड,True,Ward.,True,वार्ड,True,Ward,True
+66,गेंद को प्राप्त करने के लिए समूह में शामिल न होने के लिए किस खिलाड़ी की आलोचना की गई थी?,Which player was criticized for not jumping into the pile to recover the ball?,न्यूटन,न्यूटन,True,Cam Newton.,True,न्यूटन,True,Newton,True
+67,"किस पैंथर्स खिलाड़ी को पेनाल्टी मिली, जिसने ब्रोंकोस को और भी निराश कर दिया?","Which Panthers player got a penalty, which gave the Broncos a new set of downs?",जोश नॉर्मन,जोश नॉर्मन,True,Josh Norman.,True,जोश नॉर्मन,True,Josh Norman,True
+68,जब डेनवर ने स्कोर 24-10 कर लिया तब खेल में कितना समय बचा था?,How much time was left in the game when Denver took the score to 24-10?,3:08,3:08,True,3:08.,True,3:08,True,3:08,True
+69,चौथे क्वार्टर में जब कैरोलिना ने अपनी 24-यार्ड लाइन के लिए गेंद हासिल की तब घड़ी का समय क्या था?,What was the time on the clock when Carolina got the ball to their 24-yard line in the fourth quarter?,4:51,समाप्ति के 4:51 समय पहले,True,4:51.,True,समाप्ति के 4:51 समय पहले,True,4:51.,True
+70,चौथे क्वार्टर के अंत में न्यूटन से गेंद को दूर ले जाने वाले खिलाड़ी का अंतिम नाम क्या था?,What was the last name of the player who took the ball away from Newton late in the fourth quarter?,मिलर,मिलर,True,Miller.,True,मिलर,True,Miller,True
+71,उस खिलाड़ी का अंतिम नाम क्या है जिसने चौथे क्वार्टर में न्यूटन द्वारा छोड़ी हुई गेंद को पुनः प्राप्त किया?,What is the last name of the player who finally recovered the ball Newton lost in the fourth quarter?,वार्ड,वार्ड,True,Ward.,True,वार्ड,True,Ward,True
+72,न्यूटन से गेंद मिलने के बाद डेनवर को कितने खेल के लिए अंतिम छोर से बाहर रखा गया था?,How many plays was Denver kept out of the end zone after getting the ball from Newton?,तीन,तीन खेल,True,Three plays.,True,तीन खेलों के लिए,True,Three plays.,True
+73,चौथे क्वार्टर में 2-यार्ड टचडाउन स्कोर करने वाले खिलाड़ी का अंतिम नाम क्या है?,What is the last name of the player who scored a 2-yard touchdown in the fourth quarter?,एंडरसन,एंडरसन,True,Anderson.,True,एंडरसन,True,Anderson,True
+74,पोलिश में सैक्सन गार्डन क्या है?,What is the Saxon Garden in Polish?,ओरगॉस्क सास्की,ओरगॉस्क सास्की,True,Ogród Saski.,True,ओरगॉस्क सास्की,True,Ogród Saski,True
+75,समर थिएटर कहाँ स्थित था?,Where was the Summer Theatre located?,सैक्सन गार्डन,ओरगॉस्क सास्की (सैक्सन गार्डन) में,True,Ogród Saski.,False,ओरगॉस्क सास्की में,False,Ogród Saski.,False
+76,समर थियेटर कब तक संचालन में था?,How long was the Summer Theatre in operation?,1870 से 1939,1870 से 1939,True,69 years.,False,1870 से 1939,True,69 years.,False
+77,वारसॉ की पहली साहित्यिक कैबरे क्या थी?,What was Warsaw's first literary cabaret?,मोमस,मोमस,True,Momus.,True,मोमस,True,Momus.,True
+78,"कौन सा थिएटर ""पोलिश स्मारकीय थिएटर"" का सबसे अच्छा उदाहरण था?","What theatre was the best example of ""Polish monumental theatre""?",वोज्शिएक बोगसुलावस्की थियेटर,वोज्शिएक बोगसुलावस्की थियेटर,True,Wojciech Bogusławski Theatre.,True,वोज्शिएक बोगसुलावस्की थियेटर,True,Wojciech Bogusławski Theatre.,True
+79,2000 में एकलस्ट्रलासा चैम्पियनशिप किसने जीती?,Who won the Ekstraklasa Championship in 2000?,पोलोनिया वारसॉ,उन्होंने,False,Polonia Warsaw.,True,पोलोनिया वारसॉ,True,Polonia Warsaw.,True
+80,2000 से पहले पोलोनिया वारसॉ ने राष्ट्रिय चैंपियनशिप कब जीती?,When did Polonia Warsaw win the country's championship prior to 2000?,1946,यह जानकारी नहीं दी गई है।,False,1946,True,1946 में,True,1946.,True
+81,पोलोनिया ने कितनी बार कप जीता है?,How many times has Polonia won the cup?,दो बार,दो बार,True,Twice.,True,दो बार,True,Twice.,True
+82,पोलोनिया का गृह स्थल कहाँ स्थित है?,Where is Polonia's home venue located?,कोनवीक्टर्सका स्ट्रीट,कोनवीक्टर्सका स्ट्रीट,True,Konwiktorska Street.,True,कोनवीक्टर्सका स्ट्रीट पर,True,Konwiktorska Street.,True
+83,2013 में देश की शीर्ष उड़ान से पोलोनिया को क्यों हटाया गया?,Why was Polonia relegated from the country's top flight in 2013?,ख़राब वित्तीय स्थिति,ख़राब वित्तीय स्थिति,True,Disastrous financial situation.,True,ख़राब वित्तीय स्थिति,True,Disastrous financial situation.,True
+84,वारसॉ हमेशा से किस प्रकार का शहर रहा है?,What type of city has Warsaw been for as long as it's been a city?,बहु-सांस्कृतिक,बहु-सांस्कृतिक शहर,True,Multi-cultural.,True,बहु-सांस्कृतिक,True,Multi-cultural city.,True
+85,1901 में वारसॉ की आबादी क्या थी?,What was Warsaw's population in 1901?,"711,988","711,988",True,"711,988.",True,"711,988",True,"711,988",True
+86,1901 में वारसॉ के निवासियों में से कैथोलिक कितने प्रतिशत थे?,"Of Warsaw's inhabitants in 1901, what percentage was Catholic?",56.2%,56.2%,True,56.2%,True,56.2%,True,56.2%,True
+87,1901 में वारसॉ की जनसंख्या के कितने प्रतिशत प्रोटेस्टेंट थे?,What percentage of Warsaw's population was Protestant in 1901?,2.8%,2.8%,True,2.8%,True,2.8%,True,2.8%,True
+88,वारसॉ में धार्मिक पूजा के अधिकांश स्थानों को कब नष्ट किया गया?,When were most of the places of religious worship destroyed in Warsaw?,1944,1944 के वारसॉ विद्रोह के बाद,True,1944.,True,1944 में,True,1944.,True
+89,पोलैंड में प्रादेशिक डिवीज़न की मूल इकाई क्या है?,What is the basic unit of territorial division in Poland?,कम्यून,गमिना,False,A commune (gmina).,True,कम्यून (ग्मिना),True,Commune (gmina),True
+90,पोलैंड में प्रादेशिक डिवीज़न का दूसरा स्तर क्या है?,What is the second level of territorial division in Poland?,काउंटियों या पॉविएट्स,पॉविएट,True,Counties or powiats.,True,काउंटियों या पॉविएट्स,True,Counties or powiats.,True
+91,किन जिलों में कारों के लिए पंजीकरण संख्या एक ही प्रकार की है?,In what districts are the registration numbers for cars all of the same type?,क्राकोव,क्राकोव के जिलों में,True,Kraków.,True,क्राकोव के जिलों में।,True,Kraków.,True
+92,वारसॉ का पहला स्टॉक एक्सचेंज कब स्थापित किया गया था?,When was Warsaw's first stock exchange established?,1817,1817 में,True,1817.,True,1817 में,True,1817,True
+93,वारसॉ का स्टॉक एक्सचेंज कैसे बंद हो गया था?,What brought Warsaw's stock exchange to a stop?,द्वितीय विश्व युद्ध,द्वितीय विश्व युद्ध,True,World War II.,True,द्वितीय विश्व युद्ध के कारण।,True,World War II.,True
+94,वारसॉ का स्टॉक एक्सचेंज पुनः कब शुरू किया गया?,When was Warsaw's stock exchange brought back to life?,अप्रैल 1991,अप्रैल 1991,True,April 1991.,True,अप्रैल 1991,True,April 1991.,True
+95,अगस्त 2009 को WSE में कितनी कम्पनियाँ सूचीबद्ध थी?,How many companies were listed on the WSE on August 2009?,374,374,True,374,True,374 कम्पनियाँ,True,374,True
+96,किसके पूर्व मुख्यालय में 2000 तक WSE का ऑफिस था?,Whose former headquarters was the WSE located in until 2000?,पोलिश यूनाइटेड वर्कर्स पार्टी,पोलिश यूनाइटेड वर्कर्स पार्टी,True,The Polish United Workers' Party (PZPR).,True,पोलिश यूनाइटेड वर्कर्स पार्टी (PZPR),True,Polish United Workers' Party.,True
+97,मूल वाइकिंग निवासियों को आगमन के बाद एक सामान्य पहचान देने वाले कौन थे?,Who upon arriving gave the original viking settlers a common identity?,रोल्लो,पगियों,False,Rollo.,True,रोलो,False,Rollo.,True
+98,हेनरी III द्वारा सम्मानित किए गए नेता का नाम क्या था,What was the name of the leader ennobled by Henry III,Drogo,ड्रोगो,False,Drogo.,True,ड्रोगो,False,Drogo,True
+99,मैल्फी का काउंट कौन था,Who was Count of Melfi,विलियम आयरन आर्म,विलियम आयरन आर्म,True,William Iron Arm.,True,विलियम आयरन आर्म,True,William Iron Arm.,True

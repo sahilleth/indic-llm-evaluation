@@ -1,0 +1,14 @@
+{
+  "dataset": "XQuAD (100 examples)",
+  "llama_8b": {
+    "english": 91,
+    "hindi": 86,
+    "gap": 5
+  },
+  "llama_70b": {
+    "english": 93,
+    "hindi": 94,
+    "gap": -1
+  },
+  "key_finding": "Scaling reverses Hindi-English performance gap"
+}
