@@ -1,0 +1,30 @@
+{
+  "zero_shot": {
+    "english": 91,
+    "hindi": 86,
+    "thai": 87,
+    "arabic": 85,
+    "chinese": 82
+  },
+  "few_shot": {
+    "english": 94,
+    "hindi": 83,
+    "thai": 83,
+    "arabic": 79,
+    "chinese": 84
+  },
+  "scale_70b": {
+    "english": 93,
+    "hindi": 94,
+    "thai": 95,
+    "arabic": 87,
+    "chinese": 90
+  },
+  "token_inflation": {
+    "english": 0,
+    "hindi": 309.4,
+    "thai": 323.3,
+    "arabic": 230.5,
+    "chinese": 107.1
+  }
+}
