@@ -67,7 +67,7 @@ Token inflation alone does not explain performance gaps — Arabic has moderate 
 
 ## Methodology
 
-- **Dataset:** XQuAD — 100 identical questions in 5 languages
+- **Dataset:** XQuAD - 100 identical questions in 5 languages
 - **Models:** LLaMA 3.1 8B and LLaMA 3.3 70B via Groq API
 - **Prompting:** Zero-shot and 2-shot (in-language demonstrations)
 - **Evaluation:** Substring match accuracy, case-insensitive
